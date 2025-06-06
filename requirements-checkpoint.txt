@@ -1,0 +1,16 @@
+tensorflow
+keras
+pandas
+numpy
+jupyter
+notebook 
+tqdm
+opencv-contrib-python
+
+images                       labels
+image/angry/vivek.png        angry
+image/angry/vivek.png        angry
+image/sad/vivek.png          sad
+image/sad/vivek2.png         sad
+
+load_img(img,gfrayscale=True)
